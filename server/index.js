@@ -84,6 +84,6 @@ app.post("/deployNFT", async (req,res,next)=>{
   res.send({constract: metareq})
 })
 
-app.listen(5000, ()=>{
-    console.log("Server Started at 5000")
+app.listen(4030, ()=>{
+    console.log("Server Started at 4030")
 })

@@ -23,7 +23,7 @@ const Mint = ({}) => {
   const [value, setValue] = useState("")
 
   const GetLastData = async () =>{
-    var resposne = await axios.post("http://localhost:5000/getGSheetData")
+    var resposne = await axios.post("http://localhost:4030/getGSheetData")
     console.log(resposne);
     if(resposne.data != null)
     {
@@ -70,7 +70,7 @@ const Mint = ({}) => {
 
   const MintNFT = async (name, toaddress, val)=>{
     loading("Minting NFT for "+name)
-    var resposne = await axios.post("http://localhost:5000/mintNFT", {
+    var resposne = await axios.post("http://localhost:4030/mintNFT", {
       "value": val,
       "toaddress": toaddress,
       "name": name
