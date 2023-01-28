@@ -44,7 +44,7 @@ app.post("/getGSheetData", async (resss,reqq,next)=>{
 app.post("/mintNFT", async (req,res,next)=>{
   try{
     const form = new FormData();
-    const fileStream = fs.createReadStream("../src/images/"+req.body.value+".jpg");
+    const fileStream = fs.createReadStream("../src/images/NeuralMural."+req.body.value+".jpg");
     form.append('file', fileStream);
     var request = await axios.post("https://api.nftport.xyz/v0/files", form, config)
     console.log(request.data)

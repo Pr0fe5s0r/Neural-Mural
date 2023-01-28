@@ -133,7 +133,7 @@ const Mint = ({}) => {
                     {slideImages?.map((thumb, idx) => (
                       <SliderItem key={idx}>
                         <div className="mint_thumb">
-                          {value && <img src={require("../../../../images/"+value+".jpg")} alt="thumb" />}
+                          {value && <img src={require("../../../../images/NeuralMural."+value+".jpg")} alt="thumb" />}
                           {!value && <img src={require("../../../../images/12.png")} alt="thumb" />}
                         </div>
                       </SliderItem>
