@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cirrus-2b00d",
+  "private_key_id": "49f4aa5dafb4bde95c65c5331f261b3ba28c94cd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCibjYiGPekQI57\nn9INkiOscMYa6w/5Qs0rLa3mNQv2WhJSQBYR6O2weZnsyjY5UwIUmmqQxD8rc+Mj\nY+/SCzGvAFWFVEHKjedXb519BiKP2d+kxFCcVQYT5EvzeVRqntrxBxax0rH7m4tx\nNrQoEleCySTb3HrnR3ErSQ9Pn/Y8wHxoH06qKc3BcybHV2+3IM08oOIMJ50nodQc\nIM8WnEc8hxCnNHV8tSrnYDnXwsKHHsuO+YfU5iwNsOAM+8uT9qe1taWgOhzez3UA\ndUEgQXxgk+4K/j+LW/8si4xCjCB+GPGoR7uc8eMA2JT1GBBDeKD+U4aoHNJCIo1A\no3RLyyiNAgMBAAECggEAAeqSZ0l9B4o7zNOTO9XvcxSLV5lpb9UeYOdk97t+2Fxg\n8yNIyBl+CXpS4NbrtQfKIPLTPnufUhMZS+ndGf9fRAxHx3e5pSl7PVEcbKH/FAZ6\nR0C4kxs49WgHSVyzLIfvy67kuewpEHtOTQZzMXwDuwRGH4DR8gOqB9xtzBY8CV7i\na0RDbjCOies8v0u7cqSaZBvfYf6DJSJt1fXMFeAXL6C4zUTMf41IpEAISRvEWeDC\nJvXzaqZrEDsLEp3/3Wlad041jcd+bu0ESygqYPCeeP+Ei4cZOPMCZl+BKCxrpw9m\nGTwV+s/7HcbVc48IMvhoTbU1DGm0vwAj8JzS7dgHAQKBgQDiEfQrkA5t2OQWlErS\nrPE3TgZp/zuq5bMss3zy3QdrfoS3kDGdFBp26U5vzFckqwq0IyVu7tb7cLcefcCD\nxyygyhqN30N0zxES0xyEwrTyzNCAdHLUgG65oQWXmjSW0RX7AaZTnpr5TJCg32c+\nTi9XCw5Sv7/Mh16qbs0ErAFNwQKBgQC371ypWSPz5yDEaW5+Nq/Ui4R0HxOaHxjd\nKKYSksy0GoG1h6gr0eAzMtoyp81hLOQDC9X1e5cgNF+Di6+bjWquTHRe4jz9aAc+\nNd0HP8+dLbpO/dCrpsSNHc9+tlPsVbRpCBfeaQbXLsY1F055OQViDWDilT+Xmch7\nHesORUMlzQKBgHTwLIlMHuqbQoCbfIi1hKDC73Zs3ARuhNwejAdkZa4o56W8JK3H\n9FiGHlieLoV9JDBB7d8QFIxDpbVT/v0rTd5uLIYucso9Qeum4B2cSdU+NKv9kFhz\nhtLmg+oDjihlRyVrmQmwBSHnhPhyFwmXj81KnsIXBbNaYpFudwZvos0BAoGBAIRf\nWkNyKKK2mulfqypgNwhy4/8iAlxvttgrEeHaDkIrtV+sYoYuw/h0x32fL/qYcPwU\nP4YszOVba8Xi+J2tF7KayUEj9pq0jEnkP86gyMyohSWmGs/99ARPCO57T0iNoYnZ\nTjw9P7QLMJAy1sH9HHelgy1uFdcH0LVyIaEijaGdAoGBALMVAchYhqiNbXm8V2iY\nriqqaNa9g4hGOK5fuy+HFFHjFnNXxp737/a0J34wR6qXFc81gHEkIZuPvD9vtez1\nkOmFdNkZJb99E0eTpY438Q3vt949JHqxQb4T+BGw2U6PIf+umB42xaLi7I10fN+p\nkWzUXlRXYcVSqsRSyRVeRDPe\n-----END PRIVATE KEY-----\n",
+  "client_email": "nerual-mural@cirrus-2b00d.iam.gserviceaccount.com",
+  "client_id": "112623148007990838878",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nerual-mural%40cirrus-2b00d.iam.gserviceaccount.com"
+}
